@@ -546,13 +546,6 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/django/</loc>
-    <lastmod>2022-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yuweizhan.cn/tags/%E8%BF%90%E7%BB%B4/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -561,6 +554,13 @@
   
   <url>
     <loc>https://www.yuweizhan.cn/tags/nginx/</loc>
+    <lastmod>2022-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/django/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
