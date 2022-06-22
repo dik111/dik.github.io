@@ -539,14 +539,14 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/django/</loc>
+    <loc>https://www.yuweizhan.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://www.yuweizhan.cn/tags/django/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -609,14 +609,14 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/ES/</loc>
+    <loc>https://www.yuweizhan.cn/tags/java/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/java/</loc>
+    <loc>https://www.yuweizhan.cn/tags/ES/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -644,14 +644,14 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/docker/</loc>
+    <loc>https://www.yuweizhan.cn/tags/flink/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/flink/</loc>
+    <loc>https://www.yuweizhan.cn/tags/docker/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
