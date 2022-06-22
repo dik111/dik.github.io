@@ -539,13 +539,6 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yuweizhan.cn/tags/django/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -561,6 +554,13 @@
   
   <url>
     <loc>https://www.yuweizhan.cn/tags/nginx/</loc>
+    <lastmod>2022-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -623,6 +623,13 @@
   </url>
   
   <url>
+    <loc>https://www.yuweizhan.cn/tags/redis/</loc>
+    <lastmod>2022-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yuweizhan.cn/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -637,14 +644,7 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/redis/</loc>
-    <lastmod>2022-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuweizhan.cn/tags/k8s/</loc>
+    <loc>https://www.yuweizhan.cn/tags/docker/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -658,7 +658,7 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/docker/</loc>
+    <loc>https://www.yuweizhan.cn/tags/k8s/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -688,14 +688,14 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://www.yuweizhan.cn/categories/nginx/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/categories/nginx/</loc>
+    <loc>https://www.yuweizhan.cn/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
