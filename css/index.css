@@ -418,6 +418,72 @@ canvas:not(#ribbon-canvas),
   -ms-animation: donate_effcet 0.3s 0.1s ease both;
   animation: donate_effcet 0.3s 0.1s ease both;
 }
+.github-badge {
+  margin-left: 5px;
+  display: inline-block;
+  border-radius: 4px;
+  text-shadow: none;
+  color: #fff;
+  line-height: 15px;
+  background-color: #abbac3;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+.github-badge .badge-subject {
+  display: inline-block;
+  background-color: #4d4d4d;
+  padding: 4px 4px 4px 6px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.github-badge .badge-value {
+  display: inline-block;
+  padding: 4px 6px 4px 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.github-badge .bg-blue {
+  background: -webkit-linear-gradient(left, #3a6186, #89253e);
+  background: -moz-linear-gradient(left, #3a6186, #89253e);
+  background: -o-linear-gradient(left, #3a6186, #89253e);
+  background: -ms-linear-gradient(left, #3a6186, #89253e);
+  background: linear-gradient(to right, #3a6186, #89253e);
+}
+.github-badge .bg-brightgreen {
+  background: -webkit-linear-gradient(left, #fc5c7d, #6a82fb);
+  background: -moz-linear-gradient(left, #fc5c7d, #6a82fb);
+  background: -o-linear-gradient(left, #fc5c7d, #6a82fb);
+  background: -ms-linear-gradient(left, #fc5c7d, #6a82fb);
+  background: linear-gradient(to right, #fc5c7d, #6a82fb);
+}
+.github-badge .bg-orange {
+  background: -webkit-linear-gradient(left, #f0c27b, #4b1248);
+  background: -moz-linear-gradient(left, #f0c27b, #4b1248);
+  background: -o-linear-gradient(left, #f0c27b, #4b1248);
+  background: -ms-linear-gradient(left, #f0c27b, #4b1248);
+  background: linear-gradient(to right, #f0c27b, #4b1248);
+}
+.github-badge .bg-gradient {
+  background: -webkit-linear-gradient(left, #3ca5f6, #a86af9);
+  background: -moz-linear-gradient(left, #3ca5f6, #a86af9);
+  background: -o-linear-gradient(left, #3ca5f6, #a86af9);
+  background: -ms-linear-gradient(left, #3ca5f6, #a86af9);
+  background: linear-gradient(to right, #3ca5f6, #a86af9);
+}
+.github-badge .bg-blueviolet {
+  background: -webkit-linear-gradient(left, #654ea3, #eaafc8);
+  background: -moz-linear-gradient(left, #654ea3, #eaafc8);
+  background: -o-linear-gradient(left, #654ea3, #eaafc8);
+  background: -ms-linear-gradient(left, #654ea3, #eaafc8);
+  background: linear-gradient(to right, #654ea3, #eaafc8);
+}
+.github-badge .bg-DNS {
+  background: -webkit-linear-gradient(left, #aa4b6b, #6b6b83, #3b8d99);
+  background: -moz-linear-gradient(left, #aa4b6b, #6b6b83, #3b8d99);
+  background: -o-linear-gradient(left, #aa4b6b, #6b6b83, #3b8d99);
+  background: -ms-linear-gradient(left, #aa4b6b, #6b6b83, #3b8d99);
+  background: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
+}
 @-moz-keyframes scroll-down-effect {
   0% {
     top: 0;
