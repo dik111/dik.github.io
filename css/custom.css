@@ -1,67 +1,8 @@
 /* 文章页H1-H6图标样式效果 */
-h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
-    -webkit-animation: ccc 1.6s linear infinite ;
-    animation: ccc 1.6s linear infinite ;
-}
-@-webkit-keyframes ccc {
-    0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg)
-    }
-    to {
-        -webkit-transform: rotate(-1turn);
-        transform: rotate(-1turn)
-    }
-}
-@keyframes ccc {
-    0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg)
-    }
-    to {
-        -webkit-transform: rotate(-1turn);
-        transform: rotate(-1turn)
-    }
-}
-#content-inner.layout h1::before {
-    color: #ef50a8 ;
-    margin-left: -1.55rem;
-    font-size: 1.3rem;
-    margin-top: -0.23rem;
-}
-#content-inner.layout h2::before {
-    color: #fb7061 ;
-    margin-left: -1.35rem;
-    font-size: 1.1rem;
-    margin-top: -0.12rem;
-}
-#content-inner.layout h3::before {
-    color: #ffbf00 ;
-    margin-left: -1.22rem;
-    font-size: 0.95rem;
-    margin-top: -0.09rem;
-}
-#content-inner.layout h4::before {
-    color: #a9e000 ;
-    margin-left: -1.05rem;
-    font-size: 0.8rem;
-    margin-top: -0.09rem;
-}
-#content-inner.layout h5::before {
-    color: #57c850 ;
-    margin-left: -0.9rem;
-    font-size: 0.7rem;
-    margin-top: 0.0rem;
-}
-#content-inner.layout h6::before {
-    color: #5ec1e0 ;
-    margin-left: -0.9rem;
-    font-size: 0.66rem;
-    margin-top: 0.0rem;
-}
-
-/* 文章页H1-H6图标 显示H1~H6 */
-
+/*h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {*/
+/*    -webkit-animation: ccc 1.6s linear infinite ;*/
+/*    animation: ccc 1.6s linear infinite ;*/
+/*}*/
 /*@-webkit-keyframes ccc {*/
 /*    0% {*/
 /*        -webkit-transform: rotate(0deg);*/
@@ -83,48 +24,108 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
 /*    }*/
 /*}*/
 /*#content-inner.layout h1::before {*/
-/*    color: #afe1f9 ;*/
+/*    color: #ef50a8 ;*/
 /*    margin-left: -1.55rem;*/
 /*    font-size: 1.3rem;*/
 /*    margin-top: -0.23rem;*/
-/*    content:'H₁'*/
 /*}*/
 /*#content-inner.layout h2::before {*/
-/*    color: #afe1f9 ;*/
-/*    margin-left: -1.55rem;*/
+/*    color: #fb7061 ;*/
+/*    margin-left: -1.35rem;*/
 /*    font-size: 1.1rem;*/
 /*    margin-top: -0.12rem;*/
-/*    content:'H₂'*/
 /*}*/
 /*#content-inner.layout h3::before {*/
-/*    color: #afe1f9 ;*/
+/*    color: #ffbf00 ;*/
 /*    margin-left: -1.22rem;*/
 /*    font-size: 0.95rem;*/
 /*    margin-top: -0.09rem;*/
-/*    content:'H₃'*/
 /*}*/
 /*#content-inner.layout h4::before {*/
-/*    color: #afe1f9 ;*/
+/*    color: #a9e000 ;*/
 /*    margin-left: -1.05rem;*/
 /*    font-size: 0.8rem;*/
 /*    margin-top: -0.09rem;*/
-/*    content:'H₄'*/
 /*}*/
 /*#content-inner.layout h5::before {*/
-/*    color: #afe1f9 ;*/
+/*    color: #57c850 ;*/
 /*    margin-left: -0.9rem;*/
 /*    font-size: 0.7rem;*/
 /*    margin-top: 0.0rem;*/
-/*    content:'H₅'*/
 /*}*/
 /*#content-inner.layout h6::before {*/
-/*    color: #afe1f9 ;*/
+/*    color: #5ec1e0 ;*/
 /*    margin-left: -0.9rem;*/
 /*    font-size: 0.66rem;*/
 /*    margin-top: 0.0rem;*/
-/*    content:'H₆'*/
 /*}*/
 
+/* 文章页H1-H6图标 显示H1~H6 */
+
+@-webkit-keyframes ccc {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+    to {
+        -webkit-transform: rotate(-1turn);
+        transform: rotate(-1turn)
+    }
+}
+@keyframes ccc {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+    to {
+        -webkit-transform: rotate(-1turn);
+        transform: rotate(-1turn)
+    }
+}
+#content-inner.layout h1::before {
+    color: #eaeaea ;
+    margin-left: -1.55rem;
+    font-size: 1.3rem;
+    margin-top: -0.23rem;
+    content:'H₁'
+}
+#content-inner.layout h2::before {
+    color: #eaeaea ;
+    margin-left: -1.55rem;
+    font-size: 1.1rem;
+    margin-top: -0.12rem;
+    content:'H₂'
+}
+#content-inner.layout h3::before {
+    color: #eaeaea ;
+    margin-left: -1.22rem;
+    font-size: 0.95rem;
+    margin-top: -0.09rem;
+    content:'H₃'
+}
+#content-inner.layout h4::before {
+    color: #eaeaea ;
+    margin-left: -1.05rem;
+    font-size: 0.8rem;
+    margin-top: -0.09rem;
+    content:'H₄'
+}
+#content-inner.layout h5::before {
+    color: #eaeaea ;
+    margin-left: -0.9rem;
+    font-size: 0.7rem;
+    margin-top: 0.0rem;
+    content:'H₅'
+}
+#content-inner.layout h6::before {
+    color: #eaeaea ;
+    margin-left: -0.9rem;
+    font-size: 0.66rem;
+    margin-top: 0.0rem;
+    content:'H₆'
+}
+
+/*twikoo评论美化*/
 /* 自定义twikoo评论输入框高度 */
 .tk-input[data-v-619b4c52] .el-textarea__inner {
     height: 130px !important;
@@ -421,4 +422,15 @@ svg.icon {
     vertical-align: -0.15em;
     fill: currentColor;
     overflow: hidden;
+}
+
+/*文章标题右侧显示锚点*/
+#article-container.post-content .headerlink {
+    float: right;
+    font-size: 90%;
+    padding-top: 4px;
+}
+#article-container.post-content .headerlink::before {
+    content: '\f0c1';
+    font-family: "Font Awesome 6 Free";
 }
