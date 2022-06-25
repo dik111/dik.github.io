@@ -613,6 +613,13 @@
   </url>
   
   <url>
+    <loc>https://www.yuweizhan.cn/tags/HDFS/</loc>
+    <lastmod>2022-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yuweizhan.cn/tags/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2022-06-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -627,14 +634,14 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/HDFS/</loc>
+    <loc>https://www.yuweizhan.cn/tags/java/</loc>
     <lastmod>2022-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/java/</loc>
+    <loc>https://www.yuweizhan.cn/tags/kafka/</loc>
     <lastmod>2022-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -662,7 +669,7 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/kafka/</loc>
+    <loc>https://www.yuweizhan.cn/tags/butterfly/</loc>
     <lastmod>2022-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -670,13 +677,6 @@
   
   <url>
     <loc>https://www.yuweizhan.cn/tags/docker/</loc>
-    <lastmod>2022-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuweizhan.cn/tags/butterfly/</loc>
     <lastmod>2022-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
