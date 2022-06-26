@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.yuweizhan.cn/post/b9644516.html</loc>
+    
+    <lastmod>2022-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yuweizhan.cn/post/975f8665.html</loc>
     
     <lastmod>2022-06-26</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://www.yuweizhan.cn/post/12172c7b.html</loc>
-    
-    <lastmod>2022-06-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuweizhan.cn/post/b9644516.html</loc>
     
     <lastmod>2022-06-25</lastmod>
     
@@ -566,13 +566,6 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/django/</loc>
-    <lastmod>2022-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yuweizhan.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -580,14 +573,7 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/%E8%BF%90%E7%BB%B4/</loc>
-    <lastmod>2022-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuweizhan.cn/tags/nginx/</loc>
+    <loc>https://www.yuweizhan.cn/tags/django/</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -602,6 +588,20 @@
   
   <url>
     <loc>https://www.yuweizhan.cn/tags/hadoop/</loc>
+    <lastmod>2022-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/%E8%BF%90%E7%BB%B4/</loc>
+    <lastmod>2022-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/nginx/</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -636,13 +636,6 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/ES/</loc>
-    <lastmod>2022-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yuweizhan.cn/tags/java/</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -650,7 +643,7 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/redis/</loc>
+    <loc>https://www.yuweizhan.cn/tags/ES/</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -658,6 +651,13 @@
   
   <url>
     <loc>https://www.yuweizhan.cn/tags/kafka/</loc>
+    <lastmod>2022-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/redis/</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -736,14 +736,14 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/categories/nginx/</loc>
+    <loc>https://www.yuweizhan.cn/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
+    <loc>https://www.yuweizhan.cn/categories/nginx/</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
