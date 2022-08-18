@@ -694,13 +694,6 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/flink/</loc>
-    <lastmod>2022-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yuweizhan.cn/tags/docker/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -708,7 +701,7 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/k8s/</loc>
+    <loc>https://www.yuweizhan.cn/tags/flink/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -723,6 +716,13 @@
   
   <url>
     <loc>https://www.yuweizhan.cn/tags/jvm/</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/k8s/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
