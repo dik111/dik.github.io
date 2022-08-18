@@ -239,7 +239,7 @@
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'twikoo-9g0h0v7u30001929',
+      envId: 'http://49.234.201.123:8765/',
       region: '',
       onCommentLoaded: function () {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -251,7 +251,7 @@
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'twikoo-9g0h0v7u30001929',
+      envId: 'http://49.234.201.123:8765/',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
