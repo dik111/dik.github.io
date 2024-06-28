@@ -663,13 +663,6 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/ES/</loc>
-    <lastmod>2024-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yuweizhan.cn/tags/java/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -677,7 +670,21 @@
   </url>
   
   <url>
+    <loc>https://www.yuweizhan.cn/tags/ES/</loc>
+    <lastmod>2024-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yuweizhan.cn/tags/kafka/</loc>
+    <lastmod>2024-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/redis/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -698,13 +705,6 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/redis/</loc>
-    <lastmod>2024-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yuweizhan.cn/tags/docker/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -719,20 +719,6 @@
   </url>
   
   <url>
-    <loc>https://www.yuweizhan.cn/tags/Java/</loc>
-    <lastmod>2024-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuweizhan.cn/tags/jvm/</loc>
-    <lastmod>2024-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yuweizhan.cn/tags/k8s/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -741,6 +727,20 @@
   
   <url>
     <loc>https://www.yuweizhan.cn/tags/butterfly/</loc>
+    <lastmod>2024-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/Java/</loc>
+    <lastmod>2024-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuweizhan.cn/tags/jvm/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
